@@ -1,0 +1,14 @@
+GitHub Repository:
+https://github.com/vzarn/sdg-no-poverty-language-comparison
+
+Generated Outputs:
+• poverty_summary_python.csv
+• poverty_chart_python.png
+• python_benchmark.txt
+• poverty_summary_typescript.csv
+• poverty_chart_typescript.svg
+• typescript_benchmark.txt
+
+Dataset Source:
+World Bank Open Data – Poverty headcount ratio at international poverty lines
+Indicator Code: SI.POV.DDAY
