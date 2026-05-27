@@ -1,0 +1,17 @@
+Country,Region,Year,Poverty_Rate,Income_Group
+Philippines,East Asia and Pacific,2018,2.7,Lower middle income
+Philippines,East Asia and Pacific,2021,3.0,Lower middle income
+Indonesia,East Asia and Pacific,2018,2.2,Lower middle income
+Indonesia,East Asia and Pacific,2021,2.5,Lower middle income
+Vietnam,East Asia and Pacific,2018,1.7,Lower middle income
+Vietnam,East Asia and Pacific,2021,1.0,Lower middle income
+India,South Asia,2018,12.9,Lower middle income
+India,South Asia,2021,11.9,Lower middle income
+Bangladesh,South Asia,2018,9.2,Lower middle income
+Bangladesh,South Asia,2021,8.4,Lower middle income
+Kenya,Sub-Saharan Africa,2018,29.4,Lower middle income
+Kenya,Sub-Saharan Africa,2021,29.0,Lower middle income
+Nigeria,Sub-Saharan Africa,2018,38.9,Lower middle income
+Nigeria,Sub-Saharan Africa,2021,38.0,Lower middle income
+Brazil,Latin America and Caribbean,2018,4.4,Upper middle income
+Brazil,Latin America and Caribbean,2021,5.8,Upper middle income
